@@ -1,194 +1,279 @@
-# 💳 Trade Republic Wallets
-
-> **A Product Management Case Study**
-
-Helping customers organize their savings with virtual wallets while increasing cash retention and engagement within the Trade Republic ecosystem.
-
-> **Created as part of the Ironhack AI Product Management Bootcamp**
-
----
-
 <p align="center">
   <img src="images/banner2.png" width="100%" alt="Trade Republic Wallets Case Study">
 </p>
 
----
+<h1 align="center">💳 Trade Republic Wallets</h1>
 
-# Overview
+<p align="center">
+A Product Management Case Study exploring how Trade Republic could help customers organise their money through virtual wallets while increasing engagement and cash retention.
+</p>
 
-Trade Republic enables customers to invest while holding their uninvested cash in a single balance. Although this works well for investing, it doesn't help users organize money for different financial goals such as an emergency fund, vacation, taxes, or a future home.
-
-This case study explores how introducing **virtual Wallets** could simplify money management, increase customer engagement, and encourage users to keep more funds within the Trade Republic ecosystem.
-
----
-
-# The Challenge
-
-Many users save for multiple goals at the same time.
-
-Today, all available cash sits in one balance, making it difficult to distinguish between money reserved for investing, emergencies, travel, or other personal goals.
-
-As a result, users often:
-
-- Use multiple bank accounts
-- Track savings in spreadsheets
-- Rely on external budgeting apps
-- Transfer money outside Trade Republic
-
-This creates unnecessary friction and reduces engagement with the platform.
+<p align="center">
+Created as part of the <strong>Ironhack AI Product Management Bootcamp</strong>
+</p>
 
 ---
 
-# The Solution
+# 📖 Overview
 
-The proposed **Wallets** feature allows customers to create multiple virtual wallets within their existing Trade Republic account.
+Managing money for multiple financial goals can quickly become overwhelming when all available cash sits in a single balance. Although Trade Republic provides an excellent investing experience, customers currently have limited ways to organise their savings without relying on external budgeting tools or additional bank accounts.
 
-Instead of opening separate bank accounts, users can organize their money into dedicated wallets while keeping all funds under one account.
+In this case study, I explored how introducing **Virtual Wallets** could simplify everyday money management while strengthening customer engagement and supporting Trade Republic's long-term product strategy.
+
+---
+
+# 🚀 Project at a Glance
+
+| | |
+|---|---|
+| 🏦 Product | Trade Republic Wallets |
+| 🎯 Objective | Help users organise savings while increasing customer cash retention |
+| 👥 Target Users | Retail investors with multiple savings goals |
+| 📱 Platform | Mobile App |
+| 🏷️ Industry | FinTech |
+| 📦 MVP | Wallet Creation, Wallet Management, Internal Transfers |
+| 🛠 My Role | Product Discovery, PRD, Story Mapping, Roadmap, Jira Backlog & Prototype |
+| 🚀 Future Vision | Goal-Based Saving • Wallet Automation • Smart Financial Insights |
+
+---
+
+# 🎯 The Problem
+
+Trade Republic currently stores all uninvested cash in a single balance.
+
+For customers saving toward multiple goals—such as an emergency fund, holiday, home deposit, or taxes—it becomes difficult to understand how much money belongs to each purpose.
+
+Many customers solve this by:
+
+- Opening multiple bank accounts
+- Using budgeting applications
+- Tracking savings in spreadsheets
+
+While these workarounds help users organise their finances, they also reduce engagement with the Trade Republic platform and encourage funds to move elsewhere.
+
+---
+
+# 💡 The Solution
+
+I proposed a **Wallets** feature that allows customers to organise their money into multiple virtual wallets without opening additional bank accounts.
+
+Instead of creating separate accounts, customers can simply allocate money into dedicated wallets such as:
+
+- 🏖 Vacation
+- 🚗 Car Fund
+- 🛟 Emergency Fund
+- 🏠 Home Deposit
+- 📈 Investment Budget
 
 ### MVP Features
 
 - Create Wallets
 - Rename Wallets
 - Delete Empty Wallets
-- Add Money to Wallets
+- Add Money
 - Transfer Between Wallets
 - View Wallet Balances
 
-The solution creates a scalable foundation for future capabilities such as goal tracking, automated savings, and intelligent financial insights.
+The MVP intentionally focuses on solving one clear customer problem: **helping users organise their savings in a simple and intuitive way.**
 
 ---
 
-# Product Vision
+# 👤 Primary User
 
-> Help customers organize, manage, and grow their money without leaving the Trade Republic ecosystem.
+### Sarah — Goal-Oriented Saver
+
+Sarah regularly invests using Trade Republic but also saves for several life goals.
+
+Today she manages these goals using multiple banking apps and spreadsheets.
+
+Her biggest need is simple:
+
+> **"I want one place where I can organise my savings and investments without juggling multiple accounts."**
 
 ---
 
-# Business Objectives
+# 🎯 Product Goals
 
-The Wallets feature aims to support both customer needs and business growth.
+The Wallets feature was designed to balance customer value with business objectives.
 
-### User Goals
+### Customer Goals
 
-- Organize savings by purpose
-- Separate money for different goals
-- Manage savings from one platform
-- Move money instantly between wallets
+- Organise money by financial goal
+- Separate savings from investment funds
+- Move money easily between wallets
+- Manage finances from one platform
 
 ### Business Goals
 
-- Increase average cash balances
-- Improve customer engagement
+- Increase customer cash balances
+- Improve engagement with cash management
 - Increase customer retention
-- Build the foundation for future automation
+- Build the foundation for automated savings
 
 ---
 
-# Success Metrics
+# 📊 Success Metrics
+
+Rather than measuring engineering output, success is defined through customer adoption and business impact.
 
 | KPI | Target |
 |------|---------|
-| Wallet Adoption | 30% within 3 months |
-| Average Wallets per User | 2+ |
+| Wallet Adoption | ≥30% within 3 months |
+| Average Wallets per User | ≥2 |
 | Average Cash Balance | +10% |
 | Monthly Active Users | +15% |
-| 90-Day Retention | +8% |
-
-> *These KPIs represent proposed success metrics for evaluating the feature after launch.*
+| Customer Retention | +8% |
 
 ---
 
-# Product Process
+# 🛣 Product Process
 
-This project followed a complete Product Management workflow.
+This project followed an end-to-end Product Management workflow.
 
 ```text
 Problem Discovery
         ↓
-User Research
+Research & Personas
         ↓
-Personas
+Opportunity Definition
         ↓
-User Story Mapping
+Story Mapping
         ↓
-MVP Definition
+MVP Prioritisation
         ↓
-PRD
+Product Requirements
         ↓
 Roadmap
+        ↓
+Backlog Planning
         ↓
 Prototype
 ```
 
 ---
 
-# Product Roadmap
+# 🗺 Product Roadmap
 
-### 🚀 Release 1 — Wallet Foundation (MVP)
+### Phase 1 — Wallet Foundation
 
-- Create Wallets
-- Manage Wallets
-- Internal Transfers
-- Wallet Overview
+Build the core experience by allowing customers to create, manage and transfer money between wallets.
 
-### 🎯 Release 2 — Goal-Based Saving
+### Phase 2 — Goal-Based Saving
 
-- Savings Goals
-- Progress Tracking
-- Wallet Personalization
-- Milestone Notifications
+Introduce savings targets, progress tracking, wallet personalisation and milestone notifications.
 
-### ⚙️ Release 3 — Wallet Automation
+### Phase 3 — Wallet Automation
 
-- Recurring Transfers
-- Round-Up Savings
-- Auto Investing
+Enable recurring transfers, round-ups and automatic investment into existing savings plans.
 
-### 📈 Release 4 — Smart Financial Insights
+### Phase 4 — Smart Financial Insights
 
-- Spending Insights
-- Cash Flow Forecasting
-- Personalized Recommendations
+Provide budgeting support, personalised recommendations and cash-flow forecasting.
 
 ---
 
-# Deliverables
+# 🎨 Presentation & Interactive Prototype
 
-This repository contains all major product artifacts produced during the project.
+The complete project is documented through an interactive presentation that explains the entire Product Management journey—from identifying the opportunity to defining the MVP and designing the product experience.
 
-| Deliverable | Description |
-|------------|-------------|
-| 📄 PRD | Product Requirements Document |
-| 📊 Product Presentation | Final stakeholder presentation |
-| 🗺 User Story Map | User journey and MVP planning |
-| 📋 Jira Backlog | Prioritized backlog |
-| 🎨 Figma Prototype | Interactive prototype |
+### The presentation includes
 
----
+- Product Vision
+- Problem Analysis
+- User Persona
+- Proposed Solution
+- User Journey
+- Story Mapping
+- MVP Scope
+- Product Roadmap
+- Business Impact
+- Interactive Prototype
 
-# Repository Structure
+### 🔗 Figma Presentation
 
-```text
-trade-republic-wallets-case-study/
-│
-├── README.md
-│
-├── docs/
-│   ├── PRD.pdf
-│   ├── Product_Presentation.pdf
-│   ├── User_Story_Map.pdf
-│   └── Jira_Backlog.pdf
-│
-├── prototype/
-│   ├── Prototype_Link.md
-│   └── Screenshots/
-│
-└── images/
-```
+**Add presentation link here**
+
+### 🔗 Interactive Prototype
+
+**Add prototype link here**
 
 ---
 
-# Tools Used
+# 📄 Project Deliverables
+
+This repository contains the complete set of Product Management artefacts created during the project.
+
+## 📑 Product Requirements Document
+
+The PRD includes:
+
+- Product Vision
+- Problem Statement
+- Business Goals
+- Functional Requirements
+- Non-functional Requirements
+- User Stories
+- Success Metrics
+- Risks & Trade-offs
+- Future Roadmap
+
+📄 **View PRD**
+
+---
+
+## 🗺 Story Map
+
+The Story Map was created to:
+
+- Understand user activities
+- Break work into tasks
+- Define the MVP
+- Prioritise releases
+
+📄 **View Story Map**
+
+---
+
+## 📋 Jira Backlog
+
+The backlog contains:
+
+- Epics
+- User Stories
+- Acceptance Criteria
+- Sprint Planning
+- Release Planning
+
+📄 **View Jira Backlog**
+
+---
+
+# 🛠 Skills Demonstrated
+
+Throughout this project I applied Product Management practices commonly used by cross-functional product teams.
+
+- Product Discovery
+- Product Strategy
+- Opportunity Assessment
+- User Research
+- Customer Personas
+- User Journey Mapping
+- Story Mapping
+- User Story Writing
+- MVP Definition
+- MoSCoW Prioritisation
+- Product Roadmapping
+- KPI Definition
+- Agile Planning
+- Backlog Management
+- PRD Writing
+- UX Thinking
+- Interactive Prototyping
+- Stakeholder Communication
+
+---
+
+# 🧰 Tools
 
 - Figma
 - Jira
@@ -199,50 +284,42 @@ trade-republic-wallets-case-study/
 
 ---
 
-# AI Usage
+# 📸 Repository Contents
 
-AI tools were used to support documentation, brainstorming, and content refinement throughout the project.
+This repository includes:
 
-All product decisions—including problem framing, prioritization, roadmap planning, business goals, user stories, KPIs, and MVP definition—were reviewed, validated, and refined collaboratively by the project team.
-
----
-
-# Key Product Management Skills
-
-- Product Discovery
-- Product Strategy
-- User Research
-- Persona Development
-- User Story Mapping
-- PRD Writing
-- Roadmapping
-- Backlog Prioritization
-- KPI Definition
-- Agile Product Management
-- Stakeholder Communication
+- 📄 Product Requirements Document
+- 🗺 Story Map
+- 📋 Jira Backlog
+- 🎨 Interactive Presentation
+- 📱 Clickable Prototype
 
 ---
 
-# What I Learned
+# 💭 Reflection
 
-This project strengthened my understanding of how to translate customer problems into product opportunities while balancing business objectives, technical feasibility, and user value.
+This project gave me the opportunity to experience the full Product Management lifecycle—from identifying a customer problem to designing and presenting a validated product solution.
 
-Working through the complete product lifecycle—from problem definition to roadmap planning and prototype design—reinforced the importance of prioritization, measurable outcomes, and iterative product development.
+One of the biggest lessons was understanding that a successful MVP isn't about delivering every possible feature. It's about solving one important problem well and validating that customers find value before expanding the product.
 
----
+Features such as Goal-Based Saving, Wallet Automation and Smart Financial Insights were deliberately moved into future releases so the MVP could remain focused, achievable and measurable.
 
-# Disclaimer
-
-This project was created as an educational case study during the **Ironhack AI Product Management Bootcamp**.
-
-Trade Republic is used solely as the context for a product management exercise. This repository is not affiliated with, sponsored by, or endorsed by Trade Republic.
+If I continued this project, my next step would be validating the concept through usability testing, customer interviews and behavioural analytics before investing in additional functionality.
 
 ---
 
-## 👥 Team
+# 👥 Team
 
-**Product Management Team**
+This project was developed collaboratively by:
 
-- Sakshi Gaur
-- Inder
-- Jose Manuel
+- **Sakshi Gaur**
+- **Inder**
+- **Jose Manuel**
+
+---
+
+# 📌 Disclaimer
+
+This repository showcases an educational Product Management case study completed during the **Ironhack AI Product Management Bootcamp**.
+
+Trade Republic and its branding are referenced solely for educational purposes. This project is independent and is **not affiliated with, endorsed by, or sponsored by Trade Republic.**
