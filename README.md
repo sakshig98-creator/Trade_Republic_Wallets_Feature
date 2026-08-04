@@ -11,7 +11,21 @@ A Product Management Case Study exploring how Trade Republic could help customer
 <p align="center">
 Created as part of the <strong>Ironhack AI Product Management Bootcamp</strong>
 </p>
+<p align="center">
 
+<a href="https://www.figma.com/deck/CbmhLF89mXpIX5BGQeIlEv">
+<img src="https://img.shields.io/badge/📊_Figma_Presentation-View-8A2BE2?style=for-the-badge">
+</a>
+
+<a href="https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prototype?node-id=1-4&t=mGgzJlsnuueg1NX8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1">
+<img src="https://img.shields.io/badge/📱_Interactive_Prototype-Launch-0A66C2?style=for-the-badge">
+</a>
+
+<a href="docs/PRD.pdf">
+<img src="https://img.shields.io/badge/📄_Read_PRD-PDF-228B22?style=for-the-badge">
+</a>
+
+</p>
 ---
 
 # 📖 Overview
@@ -191,11 +205,10 @@ The complete project is documented through an interactive presentation that expl
 
 ### 🔗 Figma Presentation
 
-**Add presentation link here**
-
+📊 **[View Presentation](https://www.figma.com/deck/CbmhLF89mXpIX5BGQeIlEv)**
 ### 🔗 Interactive Prototype
 
-**Add prototype link here**
+📱 **[Launch Prototype](https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prototype?node-id=1-4&t=mGgzJlsnuueg1NX8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1)**
 
 ---
 
