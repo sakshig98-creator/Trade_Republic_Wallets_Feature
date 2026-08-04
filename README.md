@@ -261,7 +261,11 @@ The backlog contains:
 - Sprint Planning
 - Release Planning
 
-📄 **View Jira Backlog**
+<p align="center">
+  <img src="images/jira-backlog.png" alt="Trade Republic Wallets Jira Backlog" width="100%">
+</p>
+
+📄 **[Open Jira Backlog](https://ironhack-team-gwbipk41.atlassian.net/jira/software/projects/MP1TRW/boards/243/backlog)**
 
 ---
 
