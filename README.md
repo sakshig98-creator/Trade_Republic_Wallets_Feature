@@ -9,7 +9,7 @@ Helping customers organize their savings with virtual wallets while increasing c
 ---
 
 <p align="center">
-  <img src="images/banner.png" width="100%" alt="Trade Republic Wallets Case Study">
+  <img src="images/banner2.png" width="100%" alt="Trade Republic Wallets Case Study">
 </p>
 
 ---
