@@ -230,7 +230,7 @@ The PRD includes:
 - Risks & Trade-offs
 - Future Roadmap
 
-📄 **View PRD**
+📄 **[View Product Requirements Document (PRD)](https://ironhack-team-gwbipk41.atlassian.net/wiki/x/BABi)**
 
 ---
 
@@ -243,7 +243,11 @@ The Story Map was created to:
 - Define the MVP
 - Prioritise releases
 
-📄 **View Story Map**
+  <p align="center">
+  <img src="images/story-map.png" alt="Trade Republic Wallet Story Map" width="100%">
+</p>
+
+📄 **[View Story Map](https://ironhack-team-gwbipk41.atlassian.net/wiki/spaces/MI/whiteboard/8159246?atl_f=PAGETREE)**
 
 ---
 
