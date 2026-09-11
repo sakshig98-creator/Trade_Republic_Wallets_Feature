@@ -247,7 +247,7 @@ The Story Map was created to:
   <img src="images/story-map.png" alt="Trade Republic Wallet Story Map" width="100%">
 </p>
 
-📄 **[View Story Map](https://ironhack-team-gwbipk41.atlassian.net/wiki/spaces/MI/whiteboard/8159246?atl_f=PAGETREE)**
+📄 **[View Story Map](images/story-map.png)**
 
 ---
 
@@ -265,7 +265,7 @@ The backlog contains:
   <img src="images/jira-backlog.png" alt="Trade Republic Wallets Jira Backlog" width="100%">
 </p>
 
-📄 **[Open Jira Backlog](https://ironhack-team-gwbipk41.atlassian.net/jira/software/projects/MP1TRW/boards/243/backlog)**
+📄 **[View Jira Backlog](images/jira-backlog.png)**
 
 ---
 
