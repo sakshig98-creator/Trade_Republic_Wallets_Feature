@@ -21,7 +21,7 @@ Created as part of the <strong>Ironhack AI Product Management Bootcamp</strong>
 <img src="https://img.shields.io/badge/📱_Interactive_Prototype-Launch-0A66C2?style=for-the-badge">
 </a>
 
-<a href="docs/PRD.pdf">
+<a href="docs/Trade_Republic_Wallets_PRD.pdf">
 <img src="https://img.shields.io/badge/📄_Read_PRD-PDF-228B22?style=for-the-badge">
 </a>
 
