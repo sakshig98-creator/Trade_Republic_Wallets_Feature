@@ -230,7 +230,7 @@ The PRD includes:
 - Risks & Trade-offs
 - Future Roadmap
 
-📄 **[View Product Requirements Document (PRD)](https://ironhack-team-gwbipk41.atlassian.net/wiki/x/BABi)**
+📄 **[View Product Requirements Document (PRD)](docs/Trade_Republic_Wallets_PRD.pdf)**
 
 ---
 
